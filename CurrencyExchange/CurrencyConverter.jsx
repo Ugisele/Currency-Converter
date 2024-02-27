@@ -16,7 +16,7 @@ const CurrencyConverter = () => {
 }
 
     return (
-        <View style={{ display: 'flex', paddingHorizontal: 30, paddingVertical: 40 }}>
+        <View style={{ display: 'flex', paddingHorizontal: 18, paddingVertical: 40 }}>
             <Text style={{ display: 'flex', paddingVertical: 60, fontSize: 30, fontWeight: 'bold', color: '#1F4E10' }}>
                 Currency Converter
             </Text>
